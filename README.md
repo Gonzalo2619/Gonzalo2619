@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.dropbox.com/scl/fi/iw2wzzug4pskfg8l91i29/cloud-computing-6918875_1280.png?rlkey=1ib1em7oe4l9epgs9vrpiqz5z&st=3pgy0b7a&dl=1"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -44,12 +40,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/Gonzalo2619/Gonzalo2619/blob/output/dist/snake.svg" alt="Snake animation" />
 
 ###
 
